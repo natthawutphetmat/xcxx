@@ -5,6 +5,13 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<title> PG Games ความแตกต่างที่เป็นตัวตัดสิน pg slot game </title>
+<meta name="description" content="ความแตกต่างที่เป็นตัวตัดสิน pg slot game และยังมีโปรโมชั่นแจกให้กับสมาชิกทุกท่านอีกด้วย" />
+<meta property="og:title" content="PG Games ความแตกต่างที่เป็นตัวตัดสิน pg slot game"/>
+<meta property="og:description" content="ความแตกต่างที่เป็นตัวตัดสิน pg slot game และยังมีโปรโมชั่นแจกให้กับสมาชิกทุกท่านอีกด้วย"/>
+<meta property="og:url" content="https://www.chaiyoloan.com/"/>
+<meta property="og:image" content="https://www.chaiyoloan.com/img/logo.jpg"/>
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
           <script
             dangerouslySetInnerHTML={{
